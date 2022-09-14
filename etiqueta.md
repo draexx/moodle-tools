@@ -8,6 +8,6 @@ Este codigo es el que procedemos a copiar en la edicion html del Recurso Etiquet
 
 </div>
 ```
-Recuerden que el color de fondo esta definido por ```#4568DC``` el cual debemos reemplazar por el color que deseemos, para el tema de la seleccion de colores dejo el enlace donde peuden obtener el codigo del color que necesiten
+Recuerden que el color de fondo esta definido por ```#4568DC``` el cual debemos reemplazar por el color que deseemos, para el tema de la seleccion de colores dejo el enlace donde pueden obtener el codigo del color que necesiten
 
 [htmlcolor](https://htmlcolorcodes.com/es/)
